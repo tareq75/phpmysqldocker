@@ -1,5 +1,4 @@
-<h3>Hello Learner! Welcome to MyOnlineEdu.com Tutorial</h3>
-<h4>Attempting MySQL connection from php...</h4>
+<h4>Attempting MySQL connection from php 7.x...</h4>
 <?php
 if(!empty($_ENV['MYSQL_HOST']))
    $host = $_ENV['MYSQL_HOST'];
