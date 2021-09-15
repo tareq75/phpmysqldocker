@@ -1,4 +1,4 @@
 <?php
-	echo 'PHP-MySQL demo application for docker by MyOnlineEdu.com';
+	echo 'PHP-MySQL demo application for docker';
    phpinfo();
 ?>
